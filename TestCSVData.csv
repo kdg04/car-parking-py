@@ -1,0 +1,24 @@
+id,timestamp,season,holiday,workingday,weather,temp,temp_feel,humidity,windspeed,demand
+1,01-01-2017 00:00,spring,No,No,Clear or partly cloudy,9.84,14.395,81,0,2.772588722
+2,01-01-2017 01:00,spring,No,No,Clear or partly cloudy,9.02,13.635,80,0,3.688879454
+3,01-01-2017 02:00,spring,No,No,Clear or partly cloudy,9.02,13.635,80,0,3.465735903
+4,01-01-2017 03:00,spring,No,No,Clear or partly cloudy,9.84,14.395,75,0,2.564949357
+5,01-01-2017 04:00,spring,No,No,Clear or partly cloudy,9.84,14.395,75,0,0
+6,01-01-2017 05:00,spring,No,No,Mist,9.84,12.88,75,6.0032,0
+7,01-01-2017 06:00,spring,No,No,Clear or partly cloudy,,13.635,80,0,0.693147181
+8,01-01-2017 07:00,spring,No,No,Clear or partly cloudy,8.2,12.88,86,0,1.098612289
+9,01-01-2017 08:00,spring,No,No,Clear or partly cloudy,9.84,14.395,75,0,2.079441542
+10,01-01-2017 09:00,spring,No,No,Clear or partly cloudy,13.12,17.425,76,0,2.63905733
+11,01-01-2017 10:00,spring,No,No,Clear or partly cloudy,15.58,19.695,76,16.9979,3.583518938
+12,01-01-2017 11:00,spring,No,No,Clear or partly cloudy,14.76,16.665,81,19.0012,4.025351691
+13,01-01-2017 12:00,spring,No,No,Clear or partly cloudy,17.22,21.21,77,19.0012,4.430816799
+14,01-01-2017 13:00,spring,No,No,Mist,18.86,22.725,72,19.9995,4.543294782
+15,01-01-2017 14:00,spring,No,No,Mist,18.86,22.725,72,19.0012,4.663439094
+16,01-01-2017 15:00,spring,No,No,Mist,18.04,21.97,77,19.9995,4.700480366
+17,01-01-2017 16:00,spring,No,No,Mist,17.22,21.21,82,19.9995,4.532599493
+18,01-01-2017 17:00,spring,No,No,Mist,18.04,21.97,82,19.0012,4.204692619
+19,01-01-2017 18:00,spring,No,No,Light snow or rain,17.22,21.21,88,16.9979,3.555348061
+20,01-01-2017 19:00,spring,No,No,Light snow or rain,,21.21,88,16.9979,3.610917913
+21,01-01-2017 20:00,spring,No,No,Mist,16.4,20.455,87,16.9979,3.583518938
+22,01-01-2017 21:00,spring,No,No,Mist,16.4,20.455,87,12.998,3.526360525
+23,01-01-2017 22:00,spring,No,No,Mist,16.4,20.455,94,15.0013,3.33220451
